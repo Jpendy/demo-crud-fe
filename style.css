@@ -1,0 +1,17 @@
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+li {
+    text-align: center;
+    border: 2px solid black;
+    padding: 15px;
+    margin: 20px;
+}
+
+img {
+    width: 300px;
+    border-radius: 20px;
+}

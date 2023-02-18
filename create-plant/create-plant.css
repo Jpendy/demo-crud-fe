@@ -1,0 +1,17 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    gap: 25px;
+    border: 2px solid black;
+    padding: 50px;
+    background-color: #2e8b5694;
+}
+
+
+
+button {
+    margin: auto;
+    width: 150px;
+    height: 25px;
+}
